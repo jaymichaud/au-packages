@@ -26,7 +26,7 @@ environment:
 
   # Mail credentials - for error notifications
   mail_user:
-    secure: Sr/kT6jbi0dDJ83PyVtmCi3RJsLZVz8Em0MlSi3C6hE= #https://ci.appveyor.com/tools/encrypt
+    secure: 0ZTCNexzw3PKLl9jT2c7YYtmzTQe1erotrsQoP5S2ts= #https://ci.appveyor.com/tools/encrypt
   mail_pass:
     secure: i/NuSy5L8PJ3gJk4DmH9Ww== #https://ci.appveyor.com/tools/encrypt
   mail_server: smtp-mail.outlook.com
