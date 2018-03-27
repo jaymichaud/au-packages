@@ -1,7 +1,7 @@
 
 <!-- EDIT ME-->
 
-[![](https://ci.appveyor.com/api/projects/status/github/jaymichaud/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/jaymichaud/chocolatey-packages)
+[![](https://ci.appveyor.com/api/projects/status/github/jaymichaud/au-packages?svg=true)](https://ci.appveyor.com/project/jaymichaud/au-packages)
 [Update status](https://gist.github.com/jaymichaud/96dc5db802f0995b3da9087977b84aae)
 [![](http://transparent-favicon.info/favicon.ico)](#)
 [chocolatey/jaymichaud](https://chocolatey.org/profiles/jaymichaud)
